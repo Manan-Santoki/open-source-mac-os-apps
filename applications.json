@@ -16297,6 +16297,25 @@
                 "rust",
                 "typescript"
             ]
+        },
+        {
+            "short_description": "Mid-drag radial wheel to convert, edit, AirDrop, or shelve files offline.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/Manan-Santoki/OpenShelf",
+            "title": "OpenShelf",
+            "icon_url": "https://raw.githubusercontent.com/Manan-Santoki/OpenShelf/main/Support/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Manan-Santoki/OpenShelf/main/docs/images/wheels.png",
+                "https://raw.githubusercontent.com/Manan-Santoki/OpenShelf/main/docs/images/shelf.png",
+                "https://raw.githubusercontent.com/Manan-Santoki/OpenShelf/main/docs/images/editors.png"
+            ],
+            "official_site": "https://openshelf.space",
+            "languages": [
+                "swift"
+            ]
         }
     ]
 }
